@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+
+    <string name="enter_name">Введите имя</string>
+    <string name="enter_lastName">Введите фамилию</string>
+    <string name="enter_login">Введите логин</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter_password_again">Повторите пароль</string>
+
+    <string name="not_equal_passwords">Пароли не совпадают</string>
+    <string name="not_correct_passwords">Пароль не правильный</string>
+    <string name="not_correct_login">Логин занят</string>
+
+    <string name="register">Зарегистрироваться</string>
+    <string name="login">Войти</string>
+    <string name="not_correct_loginization">Некоретный данные</string>
+
+    <string name="edit_profile">Изменить профиль</string>
+    <string name="my_photos">Мои фото</string>
+    <string name="others_photos">Фото пользователей</string>
+
+    <string name="save">Сохранить</string>
+
+    <string name="add_photo">Добавить фото</string>
+
+    <string name="clear_photo">Убрать фото</string>
+
+    <string name="defaultAvatar">defaultAvatar</string>
+
+</resources>
